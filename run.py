@@ -1,5 +1,5 @@
 """Modul zum joinen von Strings."""
-import String_Joining.String_Joining.measure as measure
+import measure as measure
 import csv
 import os
 
